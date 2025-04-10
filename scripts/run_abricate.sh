@@ -1,3 +1,4 @@
+# Script to run abricate on all contigs
 #!/bin/bash
 
 # Activate abricate environment
